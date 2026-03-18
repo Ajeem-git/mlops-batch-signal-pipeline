@@ -1,17 +1,9 @@
-2026-03-18 12:58:08,891 - INFO - Job started.
-2026-03-18 12:58:08,892 - INFO - Config loaded and validated. version: v1, seed: 42, window: 5
-2026-03-18 12:58:08,897 - INFO - Loaded 10000 rows from data.csv
-2026-03-18 12:58:08,897 - INFO - Computing rolling mean with window 5
-2026-03-18 12:58:08,898 - INFO - Generating signals
-2026-03-18 12:58:08,898 - INFO - Processing complete.
-2026-03-18 12:58:08,898 - INFO - Metrics summary: rows_processed=10000, signal_rate=0.4972, latency_ms=7
-2026-03-18 12:58:08,898 - INFO - Job end - Status: SUCCESS
-2026-03-18 13:07:24,496 - INFO - Job started.
-2026-03-18 13:07:24,497 - INFO - Config loaded and validated. version: v1, seed: 42, window: 5
-2026-03-18 13:07:24,513 - INFO - Loaded 10000 rows from data.csv
-2026-03-18 13:07:24,514 - INFO - Computing rolling mean with window 5
-2026-03-18 13:07:24,517 - INFO - First window-1 rows excluded due to NaN rolling mean
-2026-03-18 13:07:24,517 - INFO - Generating signals
-2026-03-18 13:07:24,518 - INFO - Processing complete.
-2026-03-18 13:07:24,518 - INFO - Metrics summary: rows_processed=9996, signal_rate=0.4974, latency_ms=4
-2026-03-18 13:07:24,518 - INFO - Job end - Status: SUCCESS
+2026-03-18 13:54:15,667 - INFO - Job started.
+2026-03-18 13:54:15,667 - INFO - Config loaded and validated. version: v1, seed: 42, window: 5
+2026-03-18 13:54:15,673 - INFO - Loaded 10000 rows from data.csv
+2026-03-18 13:54:15,673 - INFO - Computing rolling mean with window 5
+2026-03-18 13:54:15,675 - INFO - First window-1 rows excluded due to NaN rolling mean
+2026-03-18 13:54:15,676 - INFO - Generating signals
+2026-03-18 13:54:15,676 - INFO - Processing complete.
+2026-03-18 13:54:15,676 - INFO - Metrics summary: rows_processed=9996, signal_rate=0.4974, latency_ms=2
+2026-03-18 13:54:15,676 - INFO - Job end - Status: SUCCESS
